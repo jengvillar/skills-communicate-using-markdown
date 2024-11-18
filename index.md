@@ -19,3 +19,9 @@ This is a short meaningful commit message that describes the change I've made to
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+``` java
+String myVar = "Hello, world!";
+```
